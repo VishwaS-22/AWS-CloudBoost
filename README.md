@@ -15,3 +15,12 @@ You want to know "How it helps me right?" ,To be precise, here are a few:
 
 That's it.
  
+Ways to CONTRIBUTE to the CloudBoost:
+
+- Helps to Improve ReadMe,
+- Add more Learning Materials,
+- Add more Projects,
+- Add ReadMe to the Project folder & provide steps to follow,
+- Open Issues for exciting Challenges,
+- Provide Solutions for the Issues,
+- Clear doubts of fellow folks.
