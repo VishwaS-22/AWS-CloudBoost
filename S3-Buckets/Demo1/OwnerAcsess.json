@@ -1,0 +1,21 @@
+{
+    "Version": "2012-10-17",
+    "Id": "RestrictBucketToIAMUsersOnly",
+    "Statement": [
+        {
+            "Sid": "AllowOwnerOnlyAccess",
+            "Effect": "Deny",
+            "Principal": "*",
+            "Action": "s3:*",
+            "Resource": [
+                "arn:aws:s3:::Bucket_Name/*",
+                "arn:aws:s3:::Bucket_Name"
+            ],
+            "Condition": {
+                "StringNotEquals": {
+                    "aws:PrincipalArn": "arn:aws:iam::Account_ID:root"
+                }
+            }
+        }
+    ]
+}
