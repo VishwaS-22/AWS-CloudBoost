@@ -5,7 +5,4 @@ Here is the learning resources to explore more about AWS-Cloud.
 - Solutions Architect, [AWS Certified Associate Solutions Architect By FreeCodeCamp](https://www.youtube.com/watch?v=Ia-UEYYR44s)
 - SysOps Administrator, [AAWS Certified SysOps Administrator - Associate](https://aws.amazon.com/certification/certified-sysops-admin-associate/)
 - AWS for developers, [AWS Documentation](https://docs.aws.amazon.com/)
-- Solutions Architect, [AWS official youtube channel](https://www.youtube.com/@amazonwebservices/videos)
-- "AWS Certified Solutions Architect Study Guide" by Ben Piper, David Clinton, and Nikesh Shukla.
-- "AWS Certified SysOps Administrator Study Guide" by Stephen Cole and Gareth Digby.
-- "AWS Certified Developer - Associate Guide" by Vipul Tankariya and Anil Sagar.
+- Solutions Architect, [AWS official youtube channel](https://www.youtube.com/@amazonwebservices/videos) 
